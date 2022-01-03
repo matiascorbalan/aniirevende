@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Waterfall&display=swap');
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: black;
+    color: blueviolet;
+    header{
+        background-image: url(../animado/sakura2.gif);
+        background-size: cover;
+        img{
+            width: 200px;
+            height: 200px;
+        }
+    }
+    main{
+        background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(107,9,121,1) 66%, rgba(0,212,255,1) 100%);
+        background-size: auto;
+        div{
+            font-family: 'Waterfall', cursive;
+            color: aquamarine;
+            font-size: 3em;
+        }
+        .links{
+            height: 180px;
+            width: 300px;
+            text-align: center;
+
+        }
+    }
+}
