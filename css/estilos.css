@@ -17,12 +17,12 @@ body header img {
   height: 200px;
 }
 body main {
-  background: linear-gradient(180deg, #020024 0%, #6b0979 66%, #00d4ff 100%);
+  background: linear-gradient(180deg, #00ffde 0%, black 90%);
   background-size: auto;
 }
 body main div {
   font-family: "Waterfall", cursive;
-  color: aquamarine;
+  color: black;
   font-size: 3em;
 }
 body main .links {
